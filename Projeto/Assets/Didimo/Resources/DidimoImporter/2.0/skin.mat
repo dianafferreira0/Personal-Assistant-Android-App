@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: skin
+  m_Shader: {fileID: 4800000, guid: 6e705d60b13b74d4b95507c5ad457781, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - aoSampler:
+        m_Texture: {fileID: 2800000, guid: 1984bb7fcab054cb4bddd81a8f371820, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - cavitySampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - colorSampler:
+        m_Texture: {fileID: 2800000, guid: a212a298df0bd4619ba1dc92f3ec584b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - hairCapSampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - normalSampler:
+        m_Texture: {fileID: 2800000, guid: d7d8ace75ef8a41ceaad235389831bc1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - roughSampler:
+        m_Texture: {fileID: 2800000, guid: 5215b9b46853a44748f1a771c32ec259, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - specSampler:
+        m_Texture: {fileID: 2800000, guid: 2003353e212ea430b98982b3dffa8cfa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - transSampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - zBiasSampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - aoInt: 0.292
+    - cavityInt: 0
+    - desatInt: 0.09
+    - desatSpread: 0.095
+    - dirFresnel: 0.69
+    - dirSpecRoughBias: 0
+    - directDiffInt: 1
+    - directSpecInt: 1
+    - flipY: 0
+    - frenSpread: 0.85
+    - fresnel: 0.6
+    - hairCapCutoff: 0
+    - height: 0.9
+    - indFresnel: 0.69
+    - indSpecRoughBias: 0.4
+    - indirectDiffInt: 0.8
+    - indirectSpecInt: 0.098
+    - selfShadowDiff: 0.24
+    - selfShadowSpec: 0.24
+    - shadowBias: 0.0047
+    - shadowNBias: 0.01
+    - shadowSpread: 0.9
+    - zBias: 0
+    m_Colors:
+    - SpecColor: {r: 0.32899997, g: 0.626, b: 0.988, a: 1}
+    - colorTint: {r: 1, g: 1, b: 1, a: 1}
+    - hairColor: {r: 0.0472, g: 0.043, b: 0.031, a: 1}
+    - specTint: {r: 0.897, g: 0.974, b: 0.99, a: 1}
+    - transColor: {r: 1, g: 0, b: 0, a: 1}

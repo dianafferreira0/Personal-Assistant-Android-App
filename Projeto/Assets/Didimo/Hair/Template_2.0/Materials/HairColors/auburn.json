@@ -1,0 +1,110 @@
+{
+  "info": {
+    "repo": "https://git.didimo.co/didimo/shaders", 
+    "stateVersion": 1.0, 
+    "shaderVersion": 1.0, 
+    "commit": "", 
+    "type": "materials", 
+    "generatedFrom": "G:/Shared drives/Assets/Hair Salon/assets/prop/hair_style_001/realtimeLookdev/hair_style_001/versions/hair_style_001_realtimeLookdev_hair_style_001_v011.mb"
+  }, 
+  "materials": [
+    {
+      "opaque": false, 
+      "name": "auburnHairMat", 
+      "parameters": [
+        {
+          "type": "float3", 
+          "name": "diffColor", 
+          "value": [
+            0.5220000147819519, 
+            0.20218800008296967, 
+            0.04228198528289795
+          ]
+        }, 
+        {
+          "type": "float3", 
+          "name": "specColor", 
+          "value": [
+            0.3919999897480011, 
+            0.3409942388534546, 
+            0.30928799510002136
+          ]
+        }, 
+        {
+          "type": "float", 
+          "name": "spec1Int", 
+          "value": 1.0
+        }, 
+        {
+          "type": "float", 
+          "name": "specExp1", 
+          "value": 0.0
+        }, 
+        {
+          "type": "float", 
+          "name": "spec2Int", 
+          "value": 1.0
+        }, 
+        {
+          "type": "float", 
+          "name": "specExp2", 
+          "value": 0.7692307829856873
+        }, 
+        {
+          "type": "float", 
+          "name": "directDiffInt", 
+          "value": 0.31438127160072327
+        }, 
+        {
+          "type": "float", 
+          "name": "directSpecInt", 
+          "value": 1.0
+        }, 
+        {
+          "type": "float", 
+          "name": "indirectDiffInt", 
+          "value": 0.12709030508995056
+        }, 
+        {
+          "type": "float", 
+          "name": "indirectSpecInt", 
+          "value": 0.14046822488307953
+        }
+      ], 
+      "shader": "hair"
+    },
+    {
+      "opaque": true, 
+      "name": "skinMat", 
+      "parameters": [
+        {
+          "type": "float3", 
+          "name": "hairColor", 
+          "value": [
+            0.21,
+            0.081, 
+            0.0169
+          ]
+        }
+      ], 
+      "shader": "skin"
+    }
+  ], 
+  "geoMap": {
+    "auburnHairMat": [
+      "auburnHair"
+    ]
+  }, 
+  "shaders": {
+    "hair": {
+      "number of passes": 1, 
+      "passes": [
+        {
+          "fragment shader": "hair.frag", 
+          "render target": "main"
+        }
+      ], 
+      "opaque": false
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "info": {
+    "repo": "https://git.didimo.co/didimo/shaders", 
+    "stateVersion": 1.0, 
+    "shaderVersion": 1.0, 
+    "commit": "", 
+    "type": "materials", 
+    "generatedFrom": "G:/Shared drives/Assets/Hair Salon/assets/prop/hair_style_001/realtimeLookdev/hair_style_001/versions/hair_style_001_realtimeLookdev_hair_style_001_v011.mb"
+  }, 
+  "materials": [
+    {
+      "opaque": false, 
+      "name": "lightBlondHairMat", 
+      "parameters": [
+        {
+          "type": "float3", 
+          "name": "diffColor", 
+          "value": [
+            1.0, 
+            0.8695666790008545, 
+            0.6990000009536743
+          ]
+        }, 
+        {
+          "type": "float3", 
+          "name": "specColor", 
+          "value": [
+            0.45490196347236633, 
+            0.45490196347236633, 
+            0.45490196347236633
+          ]
+        }, 
+        {
+          "type": "float", 
+          "name": "spec1Int", 
+          "value": 1.0
+        }, 
+        {
+          "type": "float", 
+          "name": "specExp1", 
+          "value": 0.6755852699279785
+        }, 
+        {
+          "type": "float", 
+          "name": "spec2Int", 
+          "value": 0.38795986771583557
+        }, 
+        {
+          "type": "float", 
+          "name": "specExp2", 
+          "value": 1.0
+        }, 
+        {
+          "type": "float", 
+          "name": "directDiffInt", 
+          "value": 0.36120402812957764
+        }, 
+        {
+          "type": "float", 
+          "name": "directSpecInt", 
+          "value": 1.0
+        }, 
+        {
+          "type": "float", 
+          "name": "indirectDiffInt", 
+          "value": 0.12040133774280548
+        }, 
+        {
+          "type": "float", 
+          "name": "indirectSpecInt", 
+          "value": 0.1538461595773697
+        }
+      ], 
+      "shader": "hair"
+    },
+    {
+      "opaque": true, 
+      "name": "skinMat", 
+      "parameters": [
+        {
+          "type": "float3", 
+          "name": "hairColor", 
+          "value": [
+            0.4,
+            0.348,
+            0.28
+          ]
+        }
+      ], 
+      "shader": "skin"
+    }
+  ], 
+  "geoMap": {
+    "lightBlondHairMat": [
+      "lightBlondHair"
+    ]
+  }, 
+  "shaders": {
+    "hair": {
+      "number of passes": 1, 
+      "passes": [
+        {
+          "fragment shader": "hair.frag", 
+          "render target": "main"
+        }
+      ], 
+      "opaque": false
+    }
+  }
+}

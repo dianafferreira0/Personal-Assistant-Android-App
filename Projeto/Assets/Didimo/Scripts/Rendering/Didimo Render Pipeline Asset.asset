@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760fef9b2615b0b428a3752bf0618441, type: 3}
+  m_Name: Didimo Render Pipeline Asset
+  m_EditorClassIdentifier: 
+  SubsurfaceScatter: 1
+  SubsurfaceScatterRadius: 0.4
+  SubsurfaceDepthBias: 0.1
+  SubsurfaceDesaturate: 0.6
+  SubsurfaceDesaturateSpread: 0.3
+  ToneMapping: 0
+  Exposure: 0
+  BgColor1: {r: 0.4627451, g: 0.5166667, b: 0.52156866, a: 1}
+  BgColor2: {r: 0, g: 0, b: 0, a: 1}
+  UseCubeMaps: 1
+  Irradiance: {fileID: 8900000, guid: a16f4c05b0b055c4b966ad08517d29e6, type: 3}
+  Radiance: {fileID: 8900000, guid: 15f365e25caa4ad4a85170896946c721, type: 3}

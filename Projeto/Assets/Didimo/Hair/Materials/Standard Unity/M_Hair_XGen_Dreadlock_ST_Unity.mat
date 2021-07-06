@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Hair_XGen_Dreadlock_ST_Unity
+  m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: ANISO_RIM_ON _ALPHATEST_ON _SPECGLOSSMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AOTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CombTex:
+        m_Texture: {fileID: 2800000, guid: 812779dc47d722749842099c1ade78c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _KKFlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6d63a4d94dd134648abbc6ada8458d51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 6d457dec65fe9714f962f978e2c2d249, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTex:
+        m_Texture: {fileID: 2800000, guid: 769ad20de7feae9438721d6eadb684df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - normalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - opacitySampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - specSampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - specShiftSampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOPower: 1
+    - _AnisoOffset: -0.72
+    - _BlendAlphaCut: 0.32
+    - _BumpPower: 0.38
+    - _BumpScale: 1
+    - _Cull: 0
+    - _Cutoff: 0.498
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Gloss: 0.221
+    - _GlossMapScale: 0.114
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _KKPrimaryRootShift: -1
+    - _KKPrimarySpecularExponent: 1
+    - _KKReflectionGrayScale: 10.6
+    - _KKReflectionSmoothness: 0.819
+    - _KKSecondaryRootShift: -1
+    - _KKSecondarySpecularExponent: 17
+    - _Metallic: 0.988
+    - _Mode: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.0403
+    - _PrimaryShift: 0.63
+    - _RimMultiplier: 1.16
+    - _RimStrength: -0.15
+    - _SecondaryShift: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularMultiplier: 0.35
+    - _SpecularMultiplier2: 1
+    - _SpecularPower: 0.1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZTest: 4
+    - _ZWrite: 1
+    - directDiffInt: 1
+    - directSpecInt: 1
+    - height: 1.38
+    - indirectDiffInt: 0.867
+    - indirectSpecInt: 1
+    - selfShadowDiff: 0.5
+    - shadowBias: 0.007
+    - shadowSpread: 0.58
+    - spec1Int: 1
+    - spec2Int: 1
+    - specExp1: 0.5
+    - specExp2: 0.5
+    - transThresh: 0.308
+    - zBias: 0
+    m_Colors:
+    - _Color: {r: 0.39609292, g: 0.49458957, b: 0.6509434, a: 1}
+    - _ColorA: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorB: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorG: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorR: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _KKPrimarySpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _KKSecondarySpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _KKSpecularMixDirectFactors: {r: 0.15, g: 0.1, b: 0.05, a: 0}
+    - _KKSpecularMixIndirectFactors: {r: 0.75, g: 0.6, b: 0.15, a: 0}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0.8867924, g: 0.77335393, b: 0.6734603, a: 1}
+    - _SpecularColor2: {r: 0.7264151, g: 0.6046, b: 0.4968405, a: 1}
+    - diffColor: {r: 0.14, g: 0.067, b: 0.029, a: 1}
+    - specColor: {r: 0.557, g: 0.499, b: 0.393, a: 1}

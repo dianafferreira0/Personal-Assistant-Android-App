@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ad786e065a4e35449892836cea3ee613
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - iconFont: {instanceID: 0}
+  - didimoThumbnailScrollview: {instanceID: 0}
+  - didimoPreviewView: {instanceID: 0}
+  - didimoRegisterView: {instanceID: 0}
+  - didimoLoginView: {instanceID: 0}
+  - defaultDidimoSprite: {fileID: 21300000, guid: 6d0e246df779c0d4ab6f151c8b3784b7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

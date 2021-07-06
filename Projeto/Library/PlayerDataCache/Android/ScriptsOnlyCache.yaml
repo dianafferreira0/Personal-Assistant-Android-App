@@ -1,0 +1,1015 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AdsManager
+    - Ajuda
+    - ClickHandler
+    - Didimo.Animation.AnimationPlayer.AnimationPlayer
+    - Didimo.Animation.AnimationPlayer.DidimoAnimation
+    - Didimo.Animation.RealtimeRig
+    - Didimo.Animation.RealtimeRigAvatar
+    - Didimo.Menu.AnimateLoading
+    - Didimo.Networking.ServicesRequestsConfiguration
+    - OnClickLinks
+    - Questionario
+    - TextSpeech.SpeechToText
+    - TextSpeech.TextToSpeech
+    - VoiceController
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.AspectRatioFitter
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Outline
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/Main.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1574}
+    - Class: 114
+      Script: {instanceID: 1578}
+    - Class: 114
+      Script: {instanceID: 1624}
+    - Class: 114
+      Script: {instanceID: 1898}
+    - Class: 114
+      Script: {instanceID: 1934}
+    - Class: 114
+      Script: {instanceID: 2214}
+    - Class: 114
+      Script: {instanceID: 2230}
+    - Class: 114
+      Script: {instanceID: 2252}
+    - Class: 114
+      Script: {instanceID: 2276}
+    - Class: 114
+      Script: {instanceID: 2294}
+    - Class: 114
+      Script: {instanceID: 2398}
+    - Class: 114
+      Script: {instanceID: 2510}
+    - Class: 114
+      Script: {instanceID: 2594}
+    - Class: 114
+      Script: {instanceID: 2656}
+    - Class: 114
+      Script: {instanceID: 2772}
+    - Class: 114
+      Script: {instanceID: 2832}
+    - Class: 114
+      Script: {instanceID: 2840}
+    - Class: 114
+      Script: {instanceID: 2860}
+    - Class: 114
+      Script: {instanceID: 2884}
+    - Class: 114
+      Script: {instanceID: 2932}
+    - Class: 114
+      Script: {instanceID: 3128}
+    - Class: 114
+      Script: {instanceID: 3138}
+    - Class: 114
+      Script: {instanceID: 3744}
+    - Class: 114
+      Script: {instanceID: 3790}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 1773428102
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 776779766044d4103746325a761ad2e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: AllFacsSequenceAnimationPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: a5af8a3222b55b53fcde50ed63f2527d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.FileBrowser
+    className: ImageFileBrowser
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: ScaleCanvasByDpi
+  - hash:
+      serializedVersion: 2
+      Hash: 77aaaaa51f7a8d8ff333a879741e47d2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: f410d0f970145fb74ebbfae6522dfadc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: VertexDeformer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Utils
+    className: DragPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: eb792ad15c139e586fc1b484235e7cb2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: DidimoLogin
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Questionario
+  - hash:
+      serializedVersion: 2
+      Hash: a870250da9e103a561ddd9f72db99c83
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: RealtimeRig
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: ErrorOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: UnityMainThreadDispatcher
+  - hash:
+      serializedVersion: 2
+      Hash: aa6534955aa665bbac5b25c1edb675c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer.UI
+    className: AnimationTimeSlider
+  - hash:
+      serializedVersion: 2
+      Hash: d78f3e9b634b5cdfcee1320be0a5d47e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: AnimationManager
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: f1d735cc1a21c3704ab52568f4fbfcf8
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 03f6f2bd2d6b2b9620d9f420d8f5ed1b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: DidimoFromCode
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.DidimoManagement
+    className: DidimoLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 8a10d1fc6029b3f51d0abc87582fa9fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: TriggerButtonOnEnterKeyPress
+  - hash:
+      serializedVersion: 2
+      Hash: d1a5d21d9bcc6c4678983849c91d8c5d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TextSpeech
+    className: TextToSpeech
+  - hash:
+      serializedVersion: 2
+      Hash: 3358771a6cf3d09ff659421ec6d3d646
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: DidimoMenuHandler
+  - hash:
+      serializedVersion: 2
+      Hash: bb044c311b3e095d16faeb8e384c28ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: MocapServerAnimationPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Utils
+    className: DoubleClickableButton
+  - hash:
+      serializedVersion: 2
+      Hash: 681f7464550ea253edcfce1844fccab2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Networking
+    className: ServicesRequestsConfiguration
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Utils
+    className: ForceUpdateLayout
+  - hash:
+      serializedVersion: 2
+      Hash: 261e4a8fb1a9635d5ec126f5eeb3588c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TextSpeech
+    className: SpeechToText
+  - hash:
+      serializedVersion: 2
+      Hash: 6c6e8550ce66eb86f2cfe7117c7e9b5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: AnimateLoading
+  - hash:
+      serializedVersion: 2
+      Hash: 5f170942ee57c7a568f5bcfc7521adea
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: a325152ad9563ed900af221c132fea36
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements.Utilities
+    className: CoroutineExecutor
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Utils
+    className: CameraScreenShot
+  - hash:
+      serializedVersion: 2
+      Hash: 050ce7997c43a7ae8b961d919a066252
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Speech.Menu
+    className: AlphaPulse
+  - hash:
+      serializedVersion: 2
+      Hash: 6006a2d53b6de77dfc1abaecc7c13cc2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpeechButton
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Monetization.dll
+    namespaceName: UnityEngine.Monetization
+    className: Placeholder
+  - hash:
+      serializedVersion: 2
+      Hash: fe64a45214940b510a0ec79c96d43498
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a74405a4829a834d107a0c6e072719ed
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 760787567e1b60d64a3e421ab83ee14a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: e99a31aef8a73749acbad2d1caec72a3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.FileBrowser
+    className: IconTextLayout
+  - hash:
+      serializedVersion: 2
+      Hash: 9d7c8fe580f25037220fd717501d0cff
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: DidimoAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements
+    className: Placeholder
+  - hash:
+      serializedVersion: 2
+      Hash: 9ec0bdac55339d41aca0dc1b3ad64490
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.ImageUpload
+    className: DidimoFromImageFile
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: facdf57432da971363da970bd3e607bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: AllBlendshapeSequenceAnimationPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: a306e12d896ddcca949923c805691027
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: AnimatorEventManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Ajuda
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: aeabe42034666de076e8abddda348de7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: RealtimeRigAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: e871bd5999d143390f968b73cdb9dfb9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.FileBrowser
+    className: IconImageTextLayout
+  - hash:
+      serializedVersion: 2
+      Hash: bf5bb652c213bc924ae52a53ecf1a344
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: AnimationPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: CircularTester
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AdsManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 9338807cf8b5480aa7328f66944af4e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.ImageUpload
+    className: DidimoFromCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 1e9431b6657328ace6c7e75bcc471247
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer
+    className: MocapServerAnimationPlayerRecorder
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 884f7e2eadcd732522d54bed348fd729
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Mopsicus.InfiniteScroll
+    className: InfiniteScroll
+  - hash:
+      serializedVersion: 2
+      Hash: 8eec6f086c64b4f16ca93527d3886253
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Networking
+    className: ApiKey
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: eef4047e511d712145152421aae82644
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VoiceController
+  - hash:
+      serializedVersion: 2
+      Hash: 179ff5005f74d66387d79897c1fa2e02
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Scrollers
+    className: HairColorGalleryHorizontalScroller_v2
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements.Utilities
+    className: ApplicationQuit
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 88e2c6f501bf5dead831a3e44c30de40
+    assemblyName: UnityEngine.Advertisements.dll
+    namespaceName: UnityEngine.Advertisements.Platform.Editor
+    className: BannerPlaceholder
+  - hash:
+      serializedVersion: 2
+      Hash: 5d5b0b37af0c17132246d17723cd2735
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: TCPClient
+  - hash:
+      serializedVersion: 2
+      Hash: 2cfb827a8a94203aa8e20949989e9703
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.FileBrowser
+    className: FileBrowserExample
+  - hash:
+      serializedVersion: 2
+      Hash: ea486e2624e9ea52f3e707c9ead9475f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: PlayerTogglesHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Utils
+    className: BasicMonoBehaviourSingleton
+  - hash:
+      serializedVersion: 2
+      Hash: da4cc51a02ce84afe2cecd27cfe6997a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Utils
+    className: EventManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 1fdc6302b903a7da80df3d5bc28f5df3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Speech
+    className: VisemePlayer
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Utils
+    className: ShowNavigationBar
+  - hash:
+      serializedVersion: 2
+      Hash: 22b382fecde63d9e3cd76e2ce9e04815
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation.AnimationPlayer.UI
+    className: ActiveFACSVisualization
+  - hash:
+      serializedVersion: 2
+      Hash: 91057eca6817ff442d138b0d25e1fb1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Utils
+    className: ResizePanel
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 034be43be97394791b28bde6121775f1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: LoadingOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: 59d94aad7b03fd70945542b0426692e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.CameraScripts
+    className: RotateAround
+  - hash:
+      serializedVersion: 2
+      Hash: 249865feb941eb4bc351a1b44f947067
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: FPSCounter
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 6a98ca1bfdef1023350f20635538d9ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Rendering
+    className: DidimoRenderPipelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 908b3077da284d11de0450423ca1808e
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OnClickLinks
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: cfd40c975b045cd8a848b31a3fa1fdc8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SampleSpeechToText
+  - hash:
+      serializedVersion: 2
+      Hash: 8d6c7550b91c513f278a3a8ff611f845
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ClickHandler
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: HideAtStart
+  - hash:
+      serializedVersion: 2
+      Hash: 28c6e52c3fbccbbf265408445730dcdd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Animation
+    className: StreamVideo
+  - hash:
+      serializedVersion: 2
+      Hash: 92d4edc0ac58db54e69c96d07ca9db64
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Scrollers
+    className: EyesGalleryHorizontalScroller
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RotateAnim
+  - hash:
+      serializedVersion: 2
+      Hash: 6980e81ddc615a861309d2d659cc3760
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: acd6210622f19f9aba14808a43224eba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.DidimoManagement
+    className: DidimoImporter
+  - hash:
+      serializedVersion: 2
+      Hash: 910739af8aa5afd5c169f5df386565dc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.CameraScripts
+    className: DragToRotate
+  - hash:
+      serializedVersion: 2
+      Hash: 4383dba8f7bd6c99f9a3eee46a15ee99
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu
+    className: UISlideToCenterOfScreen
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 34965b31fd43229f4128822b4e961ad5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AndroidDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: bac539f9f7b3d4528d069963df9a1a4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Menu.Scrollers
+    className: MocapGalleryHorizontalScroller
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 4e31409ed5d086181bb74509a209ba51
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Didimo.Speech
+    className: ExpressionsController
+  - hash:
+      serializedVersion: 2
+      Hash: 1894f65af805d87e6fc98b273934b3e8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HairConfig
+  platform: 13
+  scenePathNames:
+  - Assets/Main.unity
+  playerPath: C:/Users/vitor/OneDrive/Ambiente de Trabalho/TTSSTT.apk

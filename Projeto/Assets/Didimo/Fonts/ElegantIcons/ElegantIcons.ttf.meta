@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ed7b680357e2d294ba480c3bc61cb9b7
+timeCreated: 1485969702
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ElegantIcons
+  fontNames:
+  - ElegantIcons
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Didimo/Scripts/Rendering.meta
+guid: 83d9024c9eba479468844d381f02128a
+=======
+guid: 783fb0bb10ca4e74e8558be33689f896
+>>>>>>> sdk_refactoring_toShareCodeBetweenSDKAndApp:Assets/Didimo/Scripts/Menu/Utils/Editor/Tests.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
